@@ -6,7 +6,8 @@
     "$id": "https://raw.githubusercontent.com/w3c/wot-thing-description/main/validation/td-json-schema-validation.json",
     "definitions": {
         "anyUri": {
-            "type": "string"
+            "type": "string",
+            "format": "iri-reference"
         },
         "description": {
             "type": "string"

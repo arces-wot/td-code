@@ -63,7 +63,7 @@
 		"glob": "^7.1.6",
 		"jsonpointer": "^5.0.0",
 		"mocha": "^11.1.0",
-		"typescript": "^3.8.3",
+		"typescript": "^4.9.5",
 		"vscode-test": "^1.3.0",
 		"wot-thing-description": "github:w3c/wot-thing-description#bafa33e47c84bb879e1f5a102649cc3bea1ec3ca"
 	}
